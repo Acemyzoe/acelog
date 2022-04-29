@@ -1,0 +1,16 @@
+
+
+
+
+
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2022-04-27 16:48:17.378 (   0.000s) [        34525740]             loguru.cpp:841   INFO| Logging to './logurufile//20220427_164817.378.log', mode: 'a', verbosity: 9
+2022-04-27 16:48:17.378 (   0.000s) [        34525740]           test_log.cpp:16    INFO| 字符为 a 
+
+2022-04-27 16:48:17.378 (   0.000s) [        34525740]           test_log.cpp:17    WARN| 字符串为 AC 
+
+2022-04-27 16:48:17.378 (   0.000s) [        34525740]           test_log.cpp:18     ERR| 浮点数为 10.100000 
+
+2022-04-27 16:48:17.379 (   0.001s) [        34525740]           test_log.cpp:19    INFO| 整数为88
+2022-04-27 16:48:17.379 (   0.001s) [        34525740]           test_log.cpp:20     ERR| 双精度值为10.1235

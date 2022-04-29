@@ -1,0 +1,125 @@
+[2022-04-27 17:25:32.269] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:25:32.269] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:25:32.269] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:25:32.269] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:25:32.270] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:25:32.270] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:25:32.270] [basic_logger] [info] left aligned                  
+[2022-04-27 17:25:32.270] [basic_logger] [debug] This message should be displayed..
+[2022-04-27 17:35:25.809] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:35:25.810] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:35:25.810] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:35:25.810] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:35:25.810] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:35:25.810] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:35:25.810] [basic_logger] [info] left aligned                  
+[2022-04-27 17:36:19.248] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:36:19.248] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:36:19.248] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:36:19.248] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:36:19.248] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:36:19.248] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:36:19.248] [basic_logger] [info] left aligned                  
+[2022-04-27 17:37:24.185] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:37:24.185] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:37:24.185] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:37:24.185] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:37:24.185] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:37:24.185] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:37:24.185] [basic_logger] [info] left aligned                  
+[2022-04-27 17:40:00.323] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:40:00.323] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:40:00.323] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:40:00.323] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:40:00.323] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:40:00.323] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:40:00.323] [basic_logger] [info] left aligned                  
+[2022-04-27 17:43:31.999] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:43:31.999] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:43:31.999] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:43:31.999] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:43:31.999] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:43:32.000] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:43:32.000] [basic_logger] [info] left aligned                  
+[2022-04-27 17:47:36.156] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:47:36.157] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:47:36.157] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:47:36.157] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:47:36.157] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:47:36.157] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:47:36.157] [basic_logger] [info] left aligned                  
+[2022-04-27 17:48:00.765] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:48:00.765] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:48:00.765] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:48:00.765] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:48:00.765] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:48:00.766] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:48:00.766] [basic_logger] [info] left aligned                  
+[2022-04-27 17:48:06.683] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:48:06.683] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:48:06.683] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:48:06.683] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:48:06.683] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:48:06.683] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:48:06.683] [basic_logger] [info] left aligned                  
+[2022-04-27 17:48:16.857] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:48:16.857] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:48:16.857] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:48:16.857] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:48:16.857] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:48:16.857] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:48:16.857] [basic_logger] [info] left aligned                  
+[2022-04-27 17:51:10.605] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:51:10.605] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:51:10.605] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:51:10.605] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:51:10.605] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:51:10.605] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:51:10.605] [basic_logger] [info] left aligned                  
+[2022-04-27 17:56:26.152] [basic_logger] [info] Welcome to spdlog!
+[2022-04-27 17:56:26.152] [basic_logger] [error] Some error message with arg: 1
+[2022-04-27 17:56:26.152] [basic_logger] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:56:26.152] [basic_logger] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:56:26.152] [basic_logger] [info] Support for floats 1.23
+[2022-04-27 17:56:26.152] [basic_logger] [info] Positional args are supported too..
+[2022-04-27 17:56:26.152] [basic_logger] [info] left aligned                  
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [info] Welcome to spdlog!
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [error] Some error message with arg: 1
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [info] Support for floats 1.23
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [info] Positional args are supported too..
+[2022-04-27 17:57][Wed] [basic_logger] [  ][pro PM thr 88723] [info] left aligned                  
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [info] Welcome to spdlog!
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [error] Some error message with arg: 1
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [info] Support for floats 1.23
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [info] Positional args are supported too..
+[2022-04-27 17:58][Wed] [basic_logger] [][pro PM thr 88898] [info] left aligned                  
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [info] Welcome to spdlog!
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [error] Some error message with arg: 1
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [warning] Easy padding in numbers like 00000012
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [info] Support for floats 1.23
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [info] Positional args are supported too..
+[2022-04-27 17:59][Wed] [basic_logger] [][pro PM thr 89066] [info] left aligned                  
+[2022-04-27 17:59][Wed] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro PM thr 89066] [info] Hello world!
+[2022-04-27 18:00][Wed] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro PM thr 89246] [info] Hello world!
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [info] Welcome to spdlog!
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [error] Some error message with arg: 1
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [warning] Easy padding in numbers like 00000012
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [info] Support for floats 1.23
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [info] Positional args are supported too..
+[2022-04-27 18:00][Wed] [basic_logger] [][pro PM thr 89246] [info] left aligned                  
+[2022-04-27 18:00][Wed] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro PM thr 89246] [info] Hello world!
+[2022-04-28 10:56][Thu] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro AM thr 2607] [info] Hello world!
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] Welcome to spdlog!
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [error] Some error message with arg: 1
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [warning] Easy padding in numbers like 00000012
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] Support for floats 1.23
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] Positional args are supported too..
+[2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] left aligned                  
+[2022-04-28 10:56][Thu] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro AM thr 2607] [info] Hello world!

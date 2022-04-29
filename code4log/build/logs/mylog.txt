@@ -1,0 +1,29 @@
+[2022-04-27 17:36:19.251] [loggername] [info] Hello world!
+[2022-04-27 17:37:24.188] [loggername] [info] Hello world!
+[2022-04-27 17:37:24.188] [loggername2] [info] Hello world!
+[17:40:00 +08:00] [loggername] [---I---] [thread 87362] Hello world!
+[17:40:00 +08:00] [loggername2] [---I---] [thread 87362] Hello world!
+2022-04-27 17:43:32.012 info : Hello world!
+2022-04-27 17:43:32.012 info : Hello world!
+2022-04-27 17:47:36.171 info : Hello world!
+2022-04-27 17:47:36.171 info : Hello world!
+[2022-04-27 17:48:00.768] [loggername] [info] Hello world!
+[2022-04-27 17:48:00.768] [loggername2] [info] Hello world!
+[2022-04-27 17:48:06.696] [loggername] [info] Hello world!
+[2022-04-27 17:48:06.696] [loggername2] [info] Hello world!
+[2022-04-27 17:48:16.869] [loggername] [info] Hello world!
+[2022-04-27 17:48:16.869] [loggername2] [info] Hello world!
+[2022-04-27 1751] [loggername] [thread 88260] Hello world!
+[2022-04-27 1751] [loggername2] [thread 88260] Hello world!
+[2022-04-27 1756][Wed] [loggername] [  ][pro PM thr 88561] [info] Hello world!
+[2022-04-27 1756][Wed] [loggername2] [  ][pro PM thr 88561] [info] Hello world!
+[2022-04-27 17:57][Wed] [loggername] [  ][pro PM thr 88723] [info] Hello world!
+[2022-04-27 17:57][Wed] [loggername2] [  ][pro PM thr 88723] [info] Hello world!
+[2022-04-27 17:58][Wed] [loggername] [][pro PM thr 88898] [info] Hello world!
+[2022-04-27 17:58][Wed] [loggername2] [][pro PM thr 88898] [info] Hello world!
+[2022-04-27 17:59][Wed] [loggername] [][pro PM thr 89066] [info] Hello world!
+[2022-04-27 17:59][Wed] [loggername2] [][pro PM thr 89066] [info] Hello world!
+[2022-04-27 18:00][Wed] [loggername] [][pro PM thr 89246] [info] Hello world!
+[2022-04-27 18:00][Wed] [loggername2] [][pro PM thr 89246] [info] Hello world!
+[2022-04-28 10:56][Thu] [loggername] [][pro AM thr 2607] [info] Hello world!
+[2022-04-28 10:56][Thu] [loggername2] [][pro AM thr 2607] [info] Hello world!
