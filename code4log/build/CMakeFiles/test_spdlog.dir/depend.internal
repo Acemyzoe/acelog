@@ -30,11 +30,16 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o
  ../include/spdlog/details/thread_pool-inl.h
  ../include/spdlog/details/thread_pool.h
  ../include/spdlog/details/windows_include.h
+ ../include/spdlog/fmt/bin_to_hex.h
+ ../include/spdlog/fmt/bundled/chrono.h
  ../include/spdlog/fmt/bundled/core.h
  ../include/spdlog/fmt/bundled/format-inl.h
  ../include/spdlog/fmt/bundled/format.h
+ ../include/spdlog/fmt/bundled/ostream.h
  ../include/spdlog/fmt/bundled/xchar.h
+ ../include/spdlog/fmt/chrono.h
  ../include/spdlog/fmt/fmt.h
+ ../include/spdlog/fmt/ostr.h
  ../include/spdlog/fmt/xchar.h
  ../include/spdlog/formatter.h
  ../include/spdlog/logger-inl.h
@@ -47,6 +52,7 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o
  ../include/spdlog/sinks/base_sink.h
  ../include/spdlog/sinks/basic_file_sink-inl.h
  ../include/spdlog/sinks/basic_file_sink.h
+ ../include/spdlog/sinks/daily_file_sink.h
  ../include/spdlog/sinks/rotating_file_sink-inl.h
  ../include/spdlog/sinks/rotating_file_sink.h
  ../include/spdlog/sinks/sink-inl.h
@@ -57,6 +63,7 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o
  ../include/spdlog/sinks/wincolor_sink.h
  ../include/spdlog/spdlog-inl.h
  ../include/spdlog/spdlog.h
+ ../include/spdlog/stopwatch.h
  ../include/spdlog/tweakme.h
  ../include/spdlog/version.h
  /home/ace/文档/acelog/code4log/src/test_spdlog.cpp

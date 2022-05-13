@@ -29,11 +29,16 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/details/sync
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/details/thread_pool-inl.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/details/thread_pool.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/details/windows_include.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bin_to_hex.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/chrono.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/core.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/format-inl.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/format.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/ostream.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/bundled/xchar.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/chrono.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/fmt.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/ostr.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/fmt/xchar.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/formatter.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/logger-inl.h
@@ -46,6 +51,7 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/base_s
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/base_sink.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/basic_file_sink-inl.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/basic_file_sink.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/daily_file_sink.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/rotating_file_sink-inl.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/rotating_file_sink.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/sink-inl.h
@@ -56,6 +62,7 @@ CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/wincol
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/sinks/wincolor_sink.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/spdlog-inl.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/spdlog.h
+CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/stopwatch.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/tweakme.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../include/spdlog/version.h
 CMakeFiles/test_spdlog.dir/src/test_spdlog.cpp.o: ../src/test_spdlog.cpp

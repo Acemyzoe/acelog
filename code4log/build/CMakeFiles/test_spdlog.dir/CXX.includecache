@@ -350,6 +350,36 @@ thread_pool-inl.h
 windows.h
 -
 
+../include/spdlog/fmt/bin_to_hex.h
+cctype
+-
+spdlog/common.h
+-
+version
+-
+span
+-
+
+../include/spdlog/fmt/bundled/chrono.h
+algorithm
+-
+chrono
+-
+ctime
+-
+iterator
+-
+locale
+-
+ostream
+-
+type_traits
+-
+format.h
+../include/spdlog/fmt/bundled/format.h
+winapifamily.h
+-
+
 ../include/spdlog/fmt/bundled/core.h
 cstddef
 -
@@ -428,6 +458,12 @@ xchar.h
 format-inl.h
 ../include/spdlog/fmt/bundled/format-inl.h
 
+../include/spdlog/fmt/bundled/ostream.h
+ostream
+-
+format.h
+../include/spdlog/fmt/bundled/format.h
+
 ../include/spdlog/fmt/bundled/xchar.h
 cwchar
 -
@@ -435,6 +471,12 @@ tuple
 -
 format.h
 ../include/spdlog/fmt/bundled/format.h
+
+../include/spdlog/fmt/chrono.h
+spdlog/fmt/bundled/chrono.h
+-
+fmt/chrono.h
+-
 
 ../include/spdlog/fmt/fmt.h
 format
@@ -446,6 +488,12 @@ spdlog/fmt/bundled/format.h
 fmt/core.h
 -
 fmt/format.h
+-
+
+../include/spdlog/fmt/ostr.h
+spdlog/fmt/bundled/ostream.h
+-
+fmt/ostream.h
 -
 
 ../include/spdlog/fmt/xchar.h
@@ -620,6 +668,36 @@ string
 basic_file_sink-inl.h
 ../include/spdlog/sinks/basic_file_sink-inl.h
 
+../include/spdlog/sinks/daily_file_sink.h
+spdlog/common.h
+-
+spdlog/details/file_helper.h
+-
+spdlog/details/null_mutex.h
+-
+spdlog/fmt/fmt.h
+-
+spdlog/fmt/chrono.h
+-
+spdlog/sinks/base_sink.h
+-
+spdlog/details/os.h
+-
+spdlog/details/circular_q.h
+-
+spdlog/details/synchronous_factory.h
+-
+chrono
+-
+cstdio
+-
+ctime
+-
+mutex
+-
+string
+-
+
 ../include/spdlog/sinks/rotating_file_sink-inl.h
 spdlog/sinks/rotating_file_sink.h
 -
@@ -758,6 +836,10 @@ string
 spdlog-inl.h
 ../include/spdlog/spdlog-inl.h
 
+../include/spdlog/stopwatch.h
+spdlog/fmt/fmt.h
+-
+
 ../include/spdlog/tweakme.h
 
 ../include/spdlog/version.h
@@ -775,8 +857,16 @@ spdlog/sinks/sink.h
 /home/ace/文档/acelog/code4log/src/spdlog/sinks/sink.h
 spdlog/async.h
 /home/ace/文档/acelog/code4log/src/spdlog/async.h
-spdlog/sinks/stdout_color_sinks.h
-/home/ace/文档/acelog/code4log/src/spdlog/sinks/stdout_color_sinks.h
 spdlog/sinks/rotating_file_sink.h
 /home/ace/文档/acelog/code4log/src/spdlog/sinks/rotating_file_sink.h
+spdlog/sinks/daily_file_sink.h
+/home/ace/文档/acelog/code4log/src/spdlog/sinks/daily_file_sink.h
+spdlog/stopwatch.h
+/home/ace/文档/acelog/code4log/src/spdlog/stopwatch.h
+spdlog/fmt/bin_to_hex.h
+/home/ace/文档/acelog/code4log/src/spdlog/fmt/bin_to_hex.h
+spdlog/fmt/ostr.h
+/home/ace/文档/acelog/code4log/src/spdlog/fmt/ostr.h
+spdlog/pattern_formatter.h
+/home/ace/文档/acelog/code4log/src/spdlog/pattern_formatter.h
 
