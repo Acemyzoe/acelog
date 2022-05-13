@@ -21,12 +21,13 @@ if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_SOURCE_DIR)
 
 	find_package(Threads REQUIRED)
 
-	add_executable(test_log src/test_log.cpp)
-	target_link_libraries(test_log THREAD Threads::Threads dl)
+	add_executable(test_loguru src/test_loguru.cpp)
+	target_link_libraries(test_loguru THREAD Threads::Threads dl)
 
 	add_executable(test_spdlog src/test_spdlog.cpp)
 	target_link_libraries(test_spdlog THREAD Threads::Threads dl)
 
 	enable_testing()
-	add_test(test_log test_spdlog)
+	add_test(test_spdlog test_spdlog)
+	add_test(test_loguru test_loguru)
 endif()
