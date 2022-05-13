@@ -1,0 +1,20 @@
+Start testing: May 10 13:46 CST
+----------------------------------------------------------
+1/1 Testing: test_log
+1/1 Test: test_log
+Command: "/home/ace/文档/acelog/code4log/build/test_spdlog"
+Directory: /home/ace/文档/acelog/code4log/build
+"test_log" start time: May 10 13:46 CST
+Output:
+----------------------------------------------------------
+[2022-05-10 13:46][Tue] [loggername] [][pro PM thr 73015] [info] Hello world!
+[2022-05-10 13:46][Tue] [loggername2] [][pro PM thr 73015] [info] Hello world!
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"test_log" end time: May 10 13:46 CST
+"test_log" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 10 13:46 CST

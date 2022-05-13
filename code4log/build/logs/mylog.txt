@@ -27,3 +27,5 @@
 [2022-04-27 18:00][Wed] [loggername2] [][pro PM thr 89246] [info] Hello world!
 [2022-04-28 10:56][Thu] [loggername] [][pro AM thr 2607] [info] Hello world!
 [2022-04-28 10:56][Thu] [loggername2] [][pro AM thr 2607] [info] Hello world!
+[2022-05-10 13:46][Tue] [loggername] [][pro PM thr 73015] [info] Hello world!
+[2022-05-10 13:46][Tue] [loggername2] [][pro PM thr 73015] [info] Hello world!

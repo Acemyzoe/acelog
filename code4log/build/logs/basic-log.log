@@ -123,3 +123,12 @@
 [2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] Positional args are supported too..
 [2022-04-28 10:56][Thu] [basic_logger] [][pro AM thr 2607] [info] left aligned                  
 [2022-04-28 10:56][Thu] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro AM thr 2607] [info] Hello world!
+[2022-05-10 13:46][Tue] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro PM thr 73015] [info] Hello world!
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [info] Welcome to spdlog!
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [error] Some error message with arg: 1
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [warning] Easy padding in numbers like 00000012
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [info] Support for floats 1.23
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [info] Positional args are supported too..
+[2022-05-10 13:46][Tue] [basic_logger] [][pro PM thr 73015] [info] left aligned                  
+[2022-05-10 13:46][Tue] [basic_logger] [/home/ace/下载/log/code4log/src/test_spdlog.cpp][pro PM thr 73015] [info] Hello world!
