@@ -1,0 +1,49 @@
+arguments: ./test_loguru
+Current dir: /home/ace/文档/acelog/code4log/build
+File verbosity level: 0
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2022-05-13 15:37:44.686 (   0.002s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'latest_readable.log', mode: 'w', verbosity: 0
+2022-05-13 15:37:44.686 (   0.002s) [main thread     ]        test_loguru.cpp:19    INFO| { testloguru
+2022-05-13 15:37:44.686 (   0.002s) [main thread     ]        test_loguru.cpp:20    INFO| .   字符为 a 
+2022-05-13 15:37:44.686 (   0.002s) [main thread     ]        test_loguru.cpp:21    WARN| .   字符串为 AC 
+2022-05-13 15:37:44.687 (   0.003s) [main thread     ]        test_loguru.cpp:22     ERR| .   浮点数为 10.100000 
+2022-05-13 15:37:44.687 (   0.003s) [main thread     ]        test_loguru.cpp:24    INFO| .   整数为88
+2022-05-13 15:37:44.687 (   0.003s) [main thread     ]        test_loguru.cpp:25     ERR| .   双精度值为10.1235
+2022-05-13 15:37:44.687 (   0.003s) [main thread     ]        test_loguru.cpp:19    INFO| } 0.001 s: testloguru
+2022-05-13 15:37:44.687 (   0.003s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: ./test_loguru
+Current dir: /home/ace/文档/acelog/code4log/build
+File verbosity level: 0
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2022-05-13 15:42:13.350 (   0.000s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'latest_readable.log', mode: 'a', verbosity: 0
+2022-05-13 15:42:13.350 (   0.000s) [main thread     ]        test_loguru.cpp:20    INFO| { testloguru
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:21    INFO| .   字符为 a 
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:22    WARN| .   字符串为 AC 
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:23     ERR| .   浮点数为 10.100000 
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:25    INFO| .   整数为88
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:26     ERR| .   双精度值为10.1235
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]        test_loguru.cpp:20    INFO| } 0.000 s: testloguru
+2022-05-13 15:42:13.350 (   0.001s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: ./test_loguru
+Current dir: /home/ace/文档/acelog/code4log/build
+File verbosity level: 0
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2022-05-13 15:42:19.997 (   0.001s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'latest_readable.log', mode: 'a', verbosity: 0
+2022-05-13 15:42:19.997 (   0.002s) [main thread     ]        test_loguru.cpp:20    INFO| { testloguru
+2022-05-13 15:42:19.997 (   0.002s) [main thread     ]        test_loguru.cpp:21    INFO| .   字符为 a 
+2022-05-13 15:42:19.998 (   0.002s) [main thread     ]        test_loguru.cpp:22    WARN| .   字符串为 AC 
+2022-05-13 15:42:19.998 (   0.003s) [main thread     ]        test_loguru.cpp:23     ERR| .   浮点数为 10.100000 
+2022-05-13 15:42:19.998 (   0.003s) [main thread     ]        test_loguru.cpp:25    INFO| .   整数为88
+2022-05-13 15:42:19.999 (   0.003s) [main thread     ]        test_loguru.cpp:26     ERR| .   双精度值为10.1235
+2022-05-13 15:42:19.999 (   0.004s) [main thread     ]        test_loguru.cpp:20    INFO| } 0.002 s: testloguru
+2022-05-13 15:42:19.999 (   0.004s) [main thread     ]             loguru.cpp:538   INFO| atexit
