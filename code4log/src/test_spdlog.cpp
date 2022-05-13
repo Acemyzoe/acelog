@@ -10,15 +10,17 @@
 // 基础用法
 void test_spdlog1()
 {
-    auto logger1 = spdlog::basic_logger_mt("basic_logger", "logs/basic-log.txt");
+    auto logger1 = spdlog::basic_logger_mt("basic_logger", "logs/basic-log.log");
 
     // Create a file rotating logger with 5mb size max and 3 rotated files
     auto max_size = 1048576 * 5;
     auto max_files = 3;
-    auto logger2 = spdlog::rotating_logger_mt("some_logger_name", "logs/rotating.txt", max_size, max_files);
+    auto logger2 = spdlog::rotating_logger_mt("some_logger_name", "logs/rotating.log", max_size, max_files);
 
     // Create a daily logger - a new file is created every day on 2:30am
-    auto logger3 = spdlog::daily_logger_mt("daily_logger", "logs/daily.txt", 2, 30);
+    auto logger3 = spdlog::daily_logger_mt("daily_logger", "logs/daily.log", 2, 30);
+
+    spdlog::set_default_logger(logger2);
 
     spdlog::info("Welcome to spdlog!");
     spdlog::error("Some error message with arg: {}", 1);
@@ -128,12 +130,12 @@ void custom_flags_example()
 
 int main()
 {
-    // test_spdlog1();
+    test_spdlog1();
     // stdout_example();
     // stopwatch_example();
     // binary_example();
     // multi_sink_example();
     // user_defined_example();
-    custom_flags_example();
+    // custom_flags_example();
     return 0;
 }

@@ -1,0 +1,8 @@
+[2022-05-13 17:07:09.548] [some_logger_name] [info] Welcome to spdlog!
+[2022-05-13 17:07:09.548] [some_logger_name] [error] Some error message with arg: 1
+[2022-05-13 17:07:09.548] [some_logger_name] [warning] Easy padding in numbers like 00000012
+[2022-05-13 17:07:09.548] [some_logger_name] [critical] Support for int: 42;  hex: 2a;  oct: 52; bin: 101010
+[2022-05-13 17:07:09.548] [some_logger_name] [info] Support for floats 1.23
+2022-05-13 17:07:09.549410 <thread 193325> [info] [] Positional args are supported too..
+2022-05-13 17:07:09.549466 <thread 193325> [info] [] left aligned                  
+2022-05-13 17:07:09.549486 <thread 193325> [debug] [] This message should be displayed..
