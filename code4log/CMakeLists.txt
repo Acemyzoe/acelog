@@ -27,6 +27,9 @@ if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_SOURCE_DIR)
 	add_executable(test_spdlog src/test_spdlog.cpp)
 	target_link_libraries(test_spdlog THREAD Threads::Threads dl)
 
+	add_executable(test_logger src/test_logger.cpp)
+	target_link_libraries(test_logger THREAD Threads::Threads dl)
+
 	enable_testing()
 	add_test(test_spdlog test_spdlog)
 	add_test(test_loguru test_loguru)

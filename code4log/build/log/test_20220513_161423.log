@@ -1,0 +1,4 @@
+2022-05-13 16:14:23.342690 <thread 187073> [debug] [/home/ace/文档/acelog/code4log/src/test_logger.cpp:8] this is debug log record, param: 3
+2022-05-13 16:14:23.342737 <thread 187073> [info] [/home/ace/文档/acelog/code4log/src/test_logger.cpp:9] this is info log record, param: 4
+2022-05-13 16:14:23.342767 <thread 187073> [warning] [/home/ace/文档/acelog/code4log/src/test_logger.cpp:10] this is warn log record, param: 5
+2022-05-13 16:14:23.342790 <thread 187073> [error] [/home/ace/文档/acelog/code4log/src/test_logger.cpp:11] this is error log record, param: 6

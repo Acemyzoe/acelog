@@ -122,6 +122,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named test_logger
+
+# Build rule for target.
+test_logger: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test_logger
+.PHONY : test_logger
+
+# fast build rule for target.
+test_logger/fast:
+	$(MAKE) -f CMakeFiles/test_logger.dir/build.make CMakeFiles/test_logger.dir/build
+.PHONY : test_logger/fast
+
+#=============================================================================
 # Target rules for targets named test_spdlog
 
 # Build rule for target.
@@ -146,6 +159,33 @@ test_loguru: cmake_check_build_system
 test_loguru/fast:
 	$(MAKE) -f CMakeFiles/test_loguru.dir/build.make CMakeFiles/test_loguru.dir/build
 .PHONY : test_loguru/fast
+
+src/test_logger.o: src/test_logger.cpp.o
+
+.PHONY : src/test_logger.o
+
+# target to build an object file
+src/test_logger.cpp.o:
+	$(MAKE) -f CMakeFiles/test_logger.dir/build.make CMakeFiles/test_logger.dir/src/test_logger.cpp.o
+.PHONY : src/test_logger.cpp.o
+
+src/test_logger.i: src/test_logger.cpp.i
+
+.PHONY : src/test_logger.i
+
+# target to preprocess a source file
+src/test_logger.cpp.i:
+	$(MAKE) -f CMakeFiles/test_logger.dir/build.make CMakeFiles/test_logger.dir/src/test_logger.cpp.i
+.PHONY : src/test_logger.cpp.i
+
+src/test_logger.s: src/test_logger.cpp.s
+
+.PHONY : src/test_logger.s
+
+# target to generate assembly for a file
+src/test_logger.cpp.s:
+	$(MAKE) -f CMakeFiles/test_logger.dir/build.make CMakeFiles/test_logger.dir/src/test_logger.cpp.s
+.PHONY : src/test_logger.cpp.s
 
 src/test_loguru.o: src/test_loguru.cpp.o
 
@@ -210,8 +250,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... test"
+	@echo "... test_logger"
 	@echo "... test_spdlog"
 	@echo "... test_loguru"
+	@echo "... src/test_logger.o"
+	@echo "... src/test_logger.i"
+	@echo "... src/test_logger.s"
 	@echo "... src/test_loguru.o"
 	@echo "... src/test_loguru.i"
 	@echo "... src/test_loguru.s"
